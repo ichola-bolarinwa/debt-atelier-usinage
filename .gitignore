@@ -1,0 +1,8 @@
+~$*
+*.tmp
+*.bak
+*.sv$
+*.dwl
+*.dwl2
+Thumbs.db
+desktop.ini
