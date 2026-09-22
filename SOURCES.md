@@ -7,7 +7,7 @@ Documents de référence utilisés pour le DEBT. Titres relevés sur la page de 
 | Document | Éditeur | Usage |
 |---|---|---|
 | Guide de l'installation électrique 2017 — Normes internationales CEI et nationales françaises NF | Schneider Electric | Méthodes de calcul : bilan de puissance, sections, chutes de tension, courants de court-circuit, sélectivité, schéma TT |
-| NF C 15-100 – Révision 23 août 2024 – Points clés & solutions Legrand, réf. MM224003 (août 2026) | Legrand | Repères généraux d'installation ; orienté logement |
+| NF C 15-100 – Révision 23 août 2024 – Points clés & solutions Legrand, réf. MM224003 (août 2026) | Legrand | Repères généraux d'installation ; orienté logement || L'aménagement des bureaux — Principales données ergonomiques, fiche pratique de sécurité ED 23, 2e édition, avril 2007 | INRS | Surface minimale des bureaux : 10 m² utiles par personne, d'après la NF X 35-102 |
 
 ## Tarifs
 
