@@ -18,8 +18,8 @@ Chaque grandeur est calculée à la main, puis vérifiée sous XLPro4 Calcul 400
 
 | N° | Livrable | Outil | Dossier | État |
 |---|---|---|---|---|
-| 00 | Cahier des charges | Claude Docs, export PDF | `00_CahierDesCharges` | Terminé (v1.0) |
-| 01 | Bilan de puissance | Excel | `01_BilanPuissance` | À faire |
+| 00 | Cahier des charges | Claude Docs, export PDF | `00_CahierDesCharges` | Terminé (v1.1) |
+| 01 | Bilan de puissance | Excel | `01_BilanPuissance` | Terminé (v4) |
 | 02 | Architecture de distribution | Excel, texte | `02_Architecture` | À faire |
 | 03 | Plan de masse et d'implantation | AutoCAD | `03_PlanImplantation` | À faire |
 | 04 | Schéma unifilaire | QElectroTech | `04_SchemaUnifilaire` | À faire |
@@ -33,7 +33,7 @@ Chaque grandeur est calculée à la main, puis vérifiée sous XLPro4 Calcul 400
 | Jalon | Résultat attendu | État |
 |---|---|---|
 | J1 | Hypothèses de base validées, cahier des charges v1.0 | Terminé |
-| J2 | Machines choisies, bilan de puissance | À faire |
+| J2 | Machines choisies, bilan de puissance | Terminé |
 | J3 | Architecture, plan d'implantation, premier schéma unifilaire | À faire |
 | J4 | Note de calcul manuelle complète | À faire |
 | J5 | Vérification sous XLPro4 Calcul et analyse des écarts | À faire |
